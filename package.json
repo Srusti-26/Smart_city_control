@@ -1,0 +1,13 @@
+{
+  "name": "smart-city-control-center",
+  "version": "1.0.0",
+  "description": "AI-powered Smart City Control Center with ScaleDown compression",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "dev": "cd backend && npm run dev",
+    "install-deps": "cd backend && npm install"
+  },
+  "keywords": ["smart-city", "ai", "dashboard", "scaledown", "compression"],
+  "author": "Your Name",
+  "license": "MIT"
+}
